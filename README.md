@@ -34,7 +34,7 @@ dimension of diabetes data: **(768, 9)**
  
   ![model_comparision](./picture/model_comparision_feature_importance.png)
   
-    # Confusion Matricies
+# Confusion Matricies
   
    ![confusion matrix](./picture/combined_confusion_matrix.png)
    
