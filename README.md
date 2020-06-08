@@ -46,6 +46,7 @@ dimension of diabetes data: **(768, 9)**
 
  # Dashboard
  
- ![Click to interact](./dashboard/diabetes-dashboard.html)
+ ![Screenshot of the dashboard](./dashboard/diabetes-dashboard.png)
  
+  ![Click to download ](./dashboard/diabetes-dashboard.html)
  
